@@ -1,1 +1,5 @@
-print ("tasdsadasdsad")
+print("Welcome to Git")
+print("myname is Toey")
+print("myname is Thanavich1")
+print("myname is Thanavich2")
+print("myname is Thanavich3")
